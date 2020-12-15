@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/find-you/static/css/main.d226a1f8.chunk.css",
+    "main.js": "/find-you/static/js/main.6ee49bb6.chunk.js",
+    "main.js.map": "/find-you/static/js/main.6ee49bb6.chunk.js.map",
+    "runtime-main.js": "/find-you/static/js/runtime-main.07158290.js",
+    "runtime-main.js.map": "/find-you/static/js/runtime-main.07158290.js.map",
+    "static/js/2.3ad6dc03.chunk.js": "/find-you/static/js/2.3ad6dc03.chunk.js",
+    "static/js/2.3ad6dc03.chunk.js.map": "/find-you/static/js/2.3ad6dc03.chunk.js.map",
+    "index.html": "/find-you/index.html",
+    "static/css/main.d226a1f8.chunk.css.map": "/find-you/static/css/main.d226a1f8.chunk.css.map",
+    "static/js/2.3ad6dc03.chunk.js.LICENSE.txt": "/find-you/static/js/2.3ad6dc03.chunk.js.LICENSE.txt",
+    "static/media/hug2.6b98b92a.jpg": "/find-you/static/media/hug2.6b98b92a.jpg",
+    "static/media/hug3.30c085ec.jpg": "/find-you/static/media/hug3.30c085ec.jpg",
+    "static/media/logo23.cf4a185a.png": "/find-you/static/media/logo23.cf4a185a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07158290.js",
+    "static/js/2.3ad6dc03.chunk.js",
+    "static/css/main.d226a1f8.chunk.css",
+    "static/js/main.6ee49bb6.chunk.js"
+  ]
+}
